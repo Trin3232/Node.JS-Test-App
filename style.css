@@ -1,0 +1,12 @@
+:root{
+  --lime-green: #85ea91;
+  --groovy-red: #e42f2f;
+}
+
+body {
+  background-color: var(--lime-green);
+}
+
+h1 {
+ color: var(--groovy-red);
+}
